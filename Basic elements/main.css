@@ -1,0 +1,18 @@
+html{
+    font-size: 25px;
+}
+body{
+    background-color: antiquewhite;
+    background-color: #39c299;
+    background-image: url("img.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+    background-blend-mode: lighten;
+    backface-visibility: visible;
+    color: rgb(8, 0, 0);
+    h1{
+        
+        text-align: center;
+    }
+}
